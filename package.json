@@ -1,0 +1,19 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Testing Fizz Buzz",
+  "main": "checkfizzbuzz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "fizz",
+    "buzz",
+    "jest"
+  ],
+  "author": "Jaminyah",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
